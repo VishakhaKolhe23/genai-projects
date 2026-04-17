@@ -125,7 +125,3 @@ Run the notebook in Google Colab or Jupyter Notebook.
 * Improve image sharpness
 
 ---
-
-## 👩‍💻 Author
-
-Vishakha Kolhe
