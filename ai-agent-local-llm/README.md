@@ -33,6 +33,12 @@ This project demonstrates a simple AI assistant built using a local language mod
 * No real-time data everytime
 * Limited creativity (local model)
 
+## 🚀 How to Run
+▶️ Open in Colab (Recommended):
+Download and Open Notebook in collab
+💻 Run Locally:
+Download the notebook and open in Jupyter / VS Code
+
 ## ✅ Conclusion
 
 This project demonstrates how to build an AI agent system using LLM + tools, forming a base for advanced AI applications.
